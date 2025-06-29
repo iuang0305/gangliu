@@ -4,7 +4,9 @@ author: xiaogangliu
 description: 个人网站
 
 # Jekyll 配置
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
 
 # 可选的其他配置（根据需求添加）
 url: "" # 你的网站完整URL（如果有自定义域名时填写）
