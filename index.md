@@ -5,7 +5,7 @@ layout: default
 
 # 欢迎来到我的个人网站
 
-![个人头像](https://via.placeholder.com/150)  
+![个人头像](https://via.placeholder.com/150) 
 *这是我的个人空间*
 
 ## 关于我
