@@ -1,0 +1,22 @@
+# 基本配置
+title: 刘小刚的小站
+author: xiaogangliu
+description: 个人网站
+
+# Jekyll 配置
+theme: minima
+
+# 可选的其他配置（根据需求添加）
+url: "" # 你的网站完整URL（如果有自定义域名时填写）
+baseurl: "" # 网站的子路径（如果网站不在根目录时填写）
+
+# 社交媒体链接（示例，可选）
+social:
+  github: xiaogangliu
+  # twitter: yourtwitter
+  # email: your@email.com
+
+# 构建设置
+markdown: kramdown
+plugins:
+  - jekyll-feed
