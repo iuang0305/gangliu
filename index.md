@@ -5,7 +5,7 @@ layout: default
 
 # 欢迎来到我的个人网站
 
-![个人头像](https://via.placeholder.com/150) 
+![个人头像](https://github.com/iuang0305/gangliu/blob/main/assets/images/gangliu.jpg) 
 *这是我的个人空间*
 
 ## 关于我
@@ -28,5 +28,5 @@ layout: default
 
 ## 联系我
 
-📧 邮箱：your-email@example.com  
-💻 GitHub: [xiaogangliu](https://github.com/xiaogangliu)
+📧 邮箱：phyiuang0305@gmail.com 
+💻 GitHub: [xiaogangliu](https://github.com/iuang0305)
