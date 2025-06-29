@@ -3,22 +3,22 @@ title: 刘小刚的小站
 author: xiaogangliu
 description: 个人网站
 
-# Jekyll 配置
+# Jekyll 主题配置
 remote_theme: pages-themes/cayman@v0.2.0
+
+# 插件配置
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
-# 可选的其他配置（根据需求添加）
-url: "" # 你的网站完整URL（如果有自定义域名时填写）
-baseurl: "" # 网站的子路径（如果网站不在根目录时填写）
+# Cayman 主题特定配置
+cayman:
+  theme: default  # 可选: default, dark, solarized, solarized-dark
+  layout: default
 
-# 社交媒体链接（示例，可选）
+# 社交媒体链接
 social:
   github: xiaogangliu
-  # twitter: yourtwitter
-  # email: your@email.com
 
 # 构建设置
 markdown: kramdown
-plugins:
-  - jekyll-feed
